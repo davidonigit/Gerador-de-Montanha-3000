@@ -19,5 +19,5 @@
 - Por fim, basta visualizar o arquivo .ppm em um conversor ou programa.
   
 - Integrantes:
-    - Davi Duarte de Freitas
-    - Gabriel Victor de Lima Pimentel
+    - Davi Duarte de Freitas (github: davidonigit)
+    - Gabriel Victor de Lima Pimentel (github: Gabrienzo)
