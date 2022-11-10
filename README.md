@@ -13,7 +13,7 @@
     - gcc main.c funcs.c io.c -o executavel -g -w 
     
 - Como executar o programa:
-    - ./executavel -d <num> -o <nome do arquivo.ppm>
+    - ./executavel -d 'num' -o 'nome do arquivo.ppm'
         - num = deslocamento aleatório máximo (porcentagem)
   
 - Por fim, basta visualizar o arquivo .ppm em um conversor ou programa.
