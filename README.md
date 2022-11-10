@@ -8,16 +8,16 @@
 * Deslocamento aleatório máximo: o "n" é o deslocamento aleatório máximo, ele é um double que é convertido em porcentagem, na hora de somar ou subtrair no valor no meio, ele soma ou subtrai um valor aleatorio de 1 a 10 multiplicado pela porcentagem "n".
 
 - Como compilar o projeto: \n
-    gcc funcs.c -c -g -W \n
-    gcc io.c -c -g -W \n
-    gcc main.c funcs.c io.c -o executavel -g -w \n
+    - gcc funcs.c -c -g -W \n
+    - gcc io.c -c -g -W \n
+    - gcc main.c funcs.c io.c -o executavel -g -w \n
     
 - Como executar o programa:
-    ./executavel -d <num> -o <nome do arquivo.ppm>
-        * num = deslocamento aleatório máximo (porcentagem)
+    - ./executavel -d <num> -o <nome do arquivo.ppm>
+        - num = deslocamento aleatório máximo (porcentagem)
   
 - Por fim, basta visualizar o arquivo .ppm em um conversor ou programa.
   
 -Integrantes:
-Davi Duarte de Freitas
-Gabriel Victor de Lima Pimentel
+    - Davi Duarte de Freitas
+    - Gabriel Victor de Lima Pimentel
